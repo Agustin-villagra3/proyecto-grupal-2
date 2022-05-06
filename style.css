@@ -1,0 +1,8 @@
+video{
+    position: fixed;
+    z-index: -1;
+}
+.img-tamaño{
+    height: 10%;
+    width: 10%;
+}
